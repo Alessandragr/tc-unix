@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la .. /binroot
+ls -la . .. /binroot
